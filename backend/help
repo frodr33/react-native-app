@@ -1,0 +1,4 @@
+To use django, must be in *project* folder not app folders
+python manage.py <task>
+
+python manage.py <runserver> --> starts server
